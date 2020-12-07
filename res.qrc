@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/sounds">
+        <file>bgMusic.ogg</file>
+		<file>Fireball.mp3</file>
+    </qresource>
+    <qresource prefix="/sprites">
+        <file>clouds.png</file>
+        <file>far-grounds.png</file>
+        <file>sea.png</file>
+        <file>sky.png</file>
+        <file>tileset.png</file>
+        <file>characters.png</file>
+        <file>fireball.png</file>
+        <file>leftFireball.png</file>
+        <file>rightFireball.png</file>
+        <file>icon.png</file>
+        <file>screen.jpg</file>
+        <file>lava.png</file>
+        <file>mordor.png</file>
+		<file>ammoBook.png</file>
+		<file>healthPotion.png</file>
+		<file>platform.png</file>
+		<file>monstre.png</file>
+		<file>goblin.webp</file>
+		<file>map.png</file>
+    </qresource>
+    <qresource prefix="/fonts">
+        <file>Joystix Monospace.ttf</file>
+    </qresource>
+</RCC>
