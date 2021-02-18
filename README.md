@@ -1,6 +1,6 @@
 # KingTales
 
-KingTales is a 2D platformer made in 10 days, from start to finsih, from the game engine to the graphical interface and the game animations in C++ et QT.
+KingTales is a 2D platformer made in 10 days, from start to finsih, from the game engine to the graphical interface and the game animations in C++ with only QT framework.
 
 Here's what it looks like, i have implemented only 1 level yet, but the code is designed to make the implementations of other levels quickly !
 
